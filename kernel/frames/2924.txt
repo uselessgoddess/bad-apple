@@ -1,0 +1,33 @@
+$$$$$$$$$$$$$$$$$$$$$$$$       ,,:;IIIIIIIIIIIII;;:,  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$  ,:;IIIIIIIIIIII;;;:,   $$$$$$$$$$$$$    $$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ ,;;IIIIIIIIIIIII;:,  $$$$$$$$$$$$$$$$$      $$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$  ;IIIIIIIIIIIIIIIIII;:,  $$$$$$$$$$$$$$$$      $$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$ ,;IIIIIIIIIIIIIIIIIIIIII;;,  $$$$$$$$$$$$$      $$$$$$$$$$$$$$$$$$$$$$  $$
+$$$$$$$$$$$$$$$$$$$$$$$ :IIIIIIIIIIIIIIIIIIIIIIIIII;:  $$$$$$$$$$$$      $$$$$$$$$$$$$$$ $$$$$    $
+$$$$$$$$$$$$$$$$$$$$$$ :IIIIIIIIIIIIIIIIIIIIIIIIIIIII;, $$$$$$$$$$$  ,  $$$$$$$$$$$$$$$            
+$$$$$$$$$$$$$$$$$$$$$$,;IIIIIIIIIIIIIIIIIIIIIIIIIIIIII;, $$$$$$$$$$  :, $$$$$$$$$$$$$$$$ ::::, ,::,
+$$$$$$$$$$$$$$$$$$$$$,IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: $$$$$$$$$$ ,:, $$$$$$$$$$$$$$$$$ ;I;:,,;;:
+$$$$$$$$$$$$$$$$$$$$,IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII;, $$$$$$$$$$ ,;;,       $$$$$$$$$$ :;:,   :,
+$$$$$$$$$$$$$$$$$$$ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: $$$$$$$$$$  ,;I;;;;;;::,  $$$$$   ,,,   $  
+$$$$$$$$$$$$$$$$$$ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII;;;, $$$$$$$$$  :;;IIIIIIIIII;;: $$         $$$$ 
+$$$$$$$$$$$$$$$$$ ;IIIIIIIIIIIIIIIIIIIIIIIIIIIIII:,  $$$$$$$$$  :;IIIIIIIIIIIIIIII;          $$$$$$
+$$$$$$$$$$$$$$$$ ;IIIIIIIIIIIIIIIIIIIIIIIIIIIII: $$$$$$$$$$$  :;IIIIIIIIIIIIIIIIIII;,,     $$$$$$$$
+$$$$$$$$$$$$$$$ ;IIIIIIIIIIIIIIIIIIIIIIIIIIII: $$$$$$$$$$$  :;IIIIIIIIIIIIIIIIIIIII;,   $$$$$$$$$$$
+$$$$$$$$$$$$$$ :IIIIIIIIIIIIIIIIIIIIIIIIII;, $$$$$$$$$$$$ :IIIIIIIIIIIIIIIIIIIIIIII;  $$$$$$$$$$$$$
+$$$$$$$$$$$$$$,;IIIIIIIIIIIIIIIIIIIIIIIII: $$$$$$$$$$$  :;;IIIIIIIIIIIIIIIIIIIIIIII,$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$ :IIIIIIIIIIIIIIIIIIIIIIIIII;;; $$$$$$ ,:;IIIIIIIIIIIIIIIIIIIIIIIIIII; $$$$$$$$$$$$$$$
+$$$$$$$$$$$$ ,;IIIIIIIIIIIIIIIIIIIIIIIIIIIIII,$  :;IIIIIIIIIIIIIIIIIIIIIIIIIIIIII; $$$$$$$$$$$$$$$$
+$$$$$$$$$$$  :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII;;IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII; $$$$$$$$$$$$$$$$$
+$$$$$$$$$$$ ,;IIIIIIIIIIIIIIIIIIIIIII;;IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: $$$$$$$$$$$$$$$$$$
+$$$$$$$$$$ ,:IIIIIIIIIIIIIIIIIIIIIIIII;IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: $$$$$$$$$$$$$$$$$$$
+$$$$$$$$$  :;IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII,$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$  :IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII; $$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$ ,;IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII; $$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$  ,;;IIIIIIIIIIIIIIIIIIII;IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII: $$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$  ,:;IIIIIIIIIIIIIIIIII;;::;;IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII;, $$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$  :;IIIIIIIIIIIIIIIIII;,  ,:;IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII;, $$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$  ,:::;;;IIIIIIIIIII;:,    :;IIIIIIIIIIIIIIIIIIIIIIIIIIIIII;  $$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$       ,,:;;IIII;:,,     ,;IIIIIIIIIIIIIIIIIIIIIIIIIIII;:  $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$     ,::,   $$$  :;IIIIIIIIIIIIIIIIIIIIIIIIII;:,  $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$   $$$$$  ,;;IIIIIIIIIIIIIIIIIIIIIIII;:,  $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$   ,;;IIIIIIIIIIIIIIIIIIIIIII;,   $$$$$$$$$$$$$$$$$$$$$$$$$$$$
